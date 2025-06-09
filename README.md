@@ -1,1 +1,1 @@
-# 2d-ninja-platformer-final
+# 2d-ninja-platformer
